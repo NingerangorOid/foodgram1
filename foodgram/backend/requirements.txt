@@ -5,3 +5,4 @@ pip==23.2.1
 sqlparse==0.5.3
 tzdata==2025.2
 djoser==2.3.1
+pillow==11.2.1

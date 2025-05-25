@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbd65493-2501-4f58-a98e-394d02a68a30" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foodgram/backend/throttling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodgram/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/foodgram/backend/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodgram/backend/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/foodgram/backend/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
